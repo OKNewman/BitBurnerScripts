@@ -1,0 +1,3 @@
+temp folder to create folder via browser in GitHub
+
+This is far from the ideal way to do this. Seriously, this is bushleague, but I'm just killing time rn.
